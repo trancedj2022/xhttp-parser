@@ -89,7 +89,8 @@ subscription_links = [
                 "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/layers/ipv6",
                 "https://raw.githubusercontent.com/M-logique/Proxies/refs/heads/main/proxies/tvc/configshub.txt",
                 "https://raw.githubusercontent.com/NRi94/a1/refs/heads/main/svmes.txt",
-                "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/refs/heads/main/configtg.txt"
+                "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/refs/heads/main/configtg.txt",
+                "https://raw.githubusercontent.com/barry-far/V2ray-Configs/refs/heads/main/Sub2.txt"
 ]
 
 output_file = "output/xhttp.txt"
