@@ -90,6 +90,7 @@ vless://45eee3c9-ac41-43d5-a03f-b7b298a1d162@45.81.58.159:443?mode=auto&path=/cl
 vless://46e863ca-dc3b-48cb-9b72-79a702eb1e48@104.18.32.47:443?encryption=none&security=tls&sni=jey.dpdns.org&alpn=http/1.1,h2,h3&fp=chrome&allowInsecure=1&type=xhttp&host=jey.dpdns.org&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey&mode=auto#Telegram @vpnjey  🇩🇪🇩🇪
 vless://46e863ca-dc3b-48cb-9b72-79a702eb1e48@188.114.98.0:8443?encryption=none&security=tls&sni=jey.dpdns.org&alpn=http/1.1,h2,h3&fp=chrome&allowInsecure=1&type=xhttp&host=jey.dpdns.org&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey&mode=auto#Telegram @vpnjey  🇩🇪🇩🇪
 vless://46e863ca-dc3b-48cb-9b72-79a702eb1e48@chatgpt.com:8443?encryption=none&security=tls&sni=jey.dpdns.org&alpn=http/1.1,h2,h3&fp=chrome&allowInsecure=1&type=xhttp&host=jey.dpdns.org&path=/main&mode=auto#Telegram @vpnjey  🇩🇪🇩🇪
+vless://47339d82-b142-471c-8972-9addb7ec1334@usa144.luckerusa.org:444?path=/api/v1/&security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&fp=chrome&type=xhttp&sni=usa144.luckerusa.org#https://t.me/allproconf
 vless://4964455b-dbdc-40ad-8967-14f2ec6b2d2b@151.101.193.57:80?mode=auto&path=/TignaliSWithYou&security=none&encryption=none&host=tignaltofan.global.ssl.fastly.net&type=xhttp#@proxy_kafee1
 vless://498de120-ed30-4f7e-b498-da4917465793@172.234.239.6:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L119
 vless://4ae6ca2b-67e4-497f-b107-a69588f78fa1@45.79.10.106:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L292
