@@ -14,8 +14,8 @@ vless://0a79b7d7-b991-4577-afb3-715d718f5cce@clud.soonteam.top:443?path=/cloudap
 vless://10db3f90-dbbb-4262-b4bb-a01e02e9b87e@127.0.0.1:40443?type=xhttp&encryption=none&path=/RiTaLiN&host=rubifen.ktbr.store&mode=auto&security=tls&fp=chrome&sni=rubifen.ktbr.store&insecure=0&allowInsecure=0#Rubifen @khosrow_v2ray
 vless://14c44521-e28f-4561-a12c-337d8cc44d87@127.0.0.1:40443?encryption=none&security=tls&sni=amphetamine.ktbr.store&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=amphetamine.ktbr.store&path=/TiMbErSaW&mode=auto#Amphetamine @khosrow_v2ray
 vless://14c44521-e28f-4561-a12c-337d8cc44d87@127.0.0.1:40443?type=xhttp&encryption=none&path=/TiMbErSaW&host=amphetamine.lmjk.shop&mode=stream-up&security=tls&fp=chrome&alpn=h3,h2&sni=amphetamine.lmjk.shop&insecure=0&allowInsecure=0#Amphetamine @khosrow_v2ray
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@172.64.152.23:2052?mode=auto&path=/pabloping&security=&encryption=none&host=updn.pabloping.pro&type=xhttp#[33203] - Telegram : @V2All
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@172.64.152.23:2052?mode=auto&path=/pabloping&security=&encryption=none&host=updn.pabloping.pro&type=xhttp#canfingV2rayNG-56
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?mode=auto&path=pabloping&security=&encryption=none&host=nlbv1.pabloping.pro&type=xhttp#canfingV2rayNG-75
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=pabloping&security=&encryption=none&host=nlbv1.pabloping.pro&type=xhttp#canfingV2rayNG-79
 vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@199.232.196.193:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=Begaiiii.global.ssl.fastly.net&type=xhttp#Telegram : @V2ynpv
 vless://360d65ec-3dc9-49ef-9839-51a794f492a8@104.18.16.56:443?mode=auto&path=/cloudapi&security=tls&alpn=h2&encryption=none&insecure=0&host=game.zamanpnl.help&fp=chrome&type=xhttp&allowInsecure=0&sni=game.zamanpnl.help#@NETMelliAnti
 vless://380de414-8a0c-431b-bf20-6651c55208df@127.0.0.1:40443?encryption=none&security=tls&sni=tom.ktbr.store&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=tom.ktbr.store&path=/GoOgLe&mode=auto#Tomcat @khosrow_v2ray
@@ -32,7 +32,6 @@ vless://501e461e-02f6-4293-8334-d6ba7c076dd9@104.18.4.130:443?mode=auto&path=/&s
 vless://501e461e-02f6-4293-8334-d6ba7c076dd9@clud.soonteam.top:443?security=tls&encryption=none&insecure=0&host=cdn.dns.xn--q9jyb4c&type=xhttp&allowInsecure=0&sni=cdn.dns.xn--q9jyb4c#SoonTeam
 vless://6b6e30a9-da34-40c8-8436-fe9677ec6bb9@104.18.13.149:80?mode=auto&path=/&security=none&encryption=none&host=soonteam.imsoon.io.&type=xhttp#CDN🌩️ X🇲🇫FR-@SoonTeam🚀7
 vless://6b6e30a9-da34-40c8-8436-fe9677ec6bb9@8.6.112.0:80?mode=auto&path=/&security=none&encryption=none&host=soonteam.imsoon.io.&type=xhttp#@Spartan_YT
-vless://6b6e30a9-da34-40c8-8436-fe9677ec6bb9@8.6.112.0:80?mode=auto&path=/&security=none&encryption=none&host=soonteam.imsoon.io.&type=xhttp#@icv2ray
 vless://6b6e30a9-da34-40c8-8436-fe9677ec6bb9@8.6.112.0:80?mode=auto&path=/&security=none&encryption=none&host=soonteam.imsoon.io.&type=xhttp#CDN🌩️ X🇲🇫FR-@SoonTeam🚀7
 vless://752e3187-78e9-4dd2-ab19-b54ecb3b3bee@91.92.190.38:443?mode=auto&path=/52412/xhttpcf&security=tls&encryption=none&host=nl.z3df1lter.uk&fp=chrome&allowinsecure=1&type=xhttp&sni=nl.z3df1lter.uk#Test-@TunizoNET
 vless://84695bb3-58a4-4af6-b964-82d2c56fa23f@ips.cf.mobileemdad.top:443?mode=auto&path=/cloudapi&security=tls&alpn=h2&encryption=none&insecure=0&host=dl.mobileemdad.top&fp=chrome&type=xhttp&allowInsecure=0&sni=dl.mobileemdad.top#Telegram: @vpnbaz
@@ -51,3 +50,4 @@ vless://d914fd2e-df97-41b7-b436-7125b41da864@94.101.180.77:43769?mode=auto&path=
 vless://da406588-095f-4683-acc2-a3aa3aab68d6@ipbaz.ping-box.com:2096?mode=auto&path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=fr1.itscdn.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=fr1.itscdn.ir#@v2rayngzendegimamad🕊️
 vless://dabf1935-1ccd-41ca-b411-341ea674d8ef@jolbon4.mojtabajeab.ir:443?mode=auto&path=Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=oin.jahan-store.ir#Telegram : @V2ynpv
 vless://db444bee-8212-5ff5-be40-47e1a7509eb8@195.26.224.112:8443?mode=auto&path=/&security=reality&encryption=none&pbk=HE-fVd73NsTheypCLSyeNxgkg2EJOfXWGxjUOcvPZyQ&fp=chrome&type=xhttp&sni=vk.com&sid=938f14cf6757a249#Telegram : @V2ynpv
+vless://turboo-server@188.114.97.3:443?mode=auto&security=tls&encryption=none&insecure=0&host=turvfsogotgbdfkmvgmkleklf.infinitecreativehorizons.com&fp=chrome&type=xhttp&allowInsecure=0&sni=turvfsogotgbdfkmvgmkleklf.infinitecreativehorizons.com#canfingV2rayNG-322
