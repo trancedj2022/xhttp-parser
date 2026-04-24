@@ -33,7 +33,6 @@ vless://Telegram-Parsashonam@8.6.112.0:443?mode=auto&path=/&security=tls&encrypt
 vless://Telegram-Parsashonam@dash.cloudflare.com:443?mode=auto&path=/&security=tls&encryption=none&insecure=0&host=test.atlasw.ir&type=xhttp&allowInsecure=0&sni=test.atlasw.ir#Psiphon--@V2rayAlpha--21
 vless://Telegram-Parsashonam@www.multiplydose.com:443?mode=auto&path=/&security=tls&encryption=none&insecure=0&host=test.atlasw.ir&type=xhttp&allowInsecure=0&sni=test.atlasw.ir#@Parsashonam-2
 vless://abe2b171-afaf-484b-93f5-005d9d50fce4@188.121.113.159:443?mode=auto&path=/&security=none&encryption=none&type=xhttp#1100
-vless://abe2b171-afaf-484b-93f5-005d9d50fce4@188.121.113.159:443?mode=auto&path=/&security=none&encryption=none&type=xhttp#@TROWER_NEWS
 vless://abe2b171-afaf-484b-93f5-005d9d50fce4@188.121.113.159:443?mode=auto&path=/&security=none&encryption=none&type=xhttp#@i10VPN - Psiphon 26
 vless://abe2b171-afaf-484b-93f5-005d9d50fce4@188.121.113.159:443?mode=auto&path=/&security=none&encryption=none&type=xhttp#telegram: @hupivpn
 vless://bac628dc-cd64-460c-8657-8128c9d6d7b7@108.162.193.173:443?mode=auto&path=/v1/api/sync/f47ac10b58cc4372a5670e02b2c3d479&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=api-ch.nping.ir#Telegram : @V2ynpv
@@ -44,4 +43,3 @@ vless://da406588-095f-4683-acc2-a3aa3aab68d6@ipbaz.ping-box.com:2096?mode=auto&p
 vless://dabf1935-1ccd-41ca-b411-341ea674d8ef@jolbon4.mojtabajeab.ir:443?mode=auto&path=Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=oin.jahan-store.ir#Telegram : @V2ynpv
 vless://db444bee-8212-5ff5-be40-47e1a7509eb8@195.26.224.112:8443?mode=auto&path=/&security=reality&encryption=none&pbk=HE-fVd73NsTheypCLSyeNxgkg2EJOfXWGxjUOcvPZyQ&fp=chrome&type=xhttp&sni=vk.com&sid=938f14cf6757a249#Telegram : @V2ynpv
 vless://dd6af632-e4bb-400a-922f-43f75ec89d64@190.93.245.94:443?mode=auto&path=/v1/api/sync/f47ac10b58cc4372a5670e02b2c3d479&security=tls&alpn=h2&encryption=none&insecure=0&host=api-ws-de.nxping.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=api-ws-de.nxping.ir#IR-@V2rayAlpha-12
-vless://f02a08c2-f157-42c9-bdd6-74f6e2e5e8ef@fast2.mrsf.ir:443?mode=auto&path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=1&host=PAS1.gLobAl.sSl.Fastly.nEt&fp=chrome&type=xhttp&allowInsecure=1&sni=mikishop.xyz#canfingV2rayNG-344
